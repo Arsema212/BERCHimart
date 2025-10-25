@@ -1,0 +1,93 @@
+{
+  "common": {
+    "welcome": "Welcome",
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "search": "Search",
+    "home": "Home",
+    "products": "Products",
+    "profile": "Profile",
+    "settings": "Settings",
+    "dashboard": "Dashboard",
+    "admin": "Admin",
+    "moderator": "Moderator",
+    "seller": "Seller",
+    "customer": "Customer"
+  },
+  "app": {
+    "title": "BERCHimart",
+    "subtitle": "Accessible E-commerce",
+    "tagline": "Where handmade meets heart. Discover unique creations from talented artisans worldwide."
+  },
+  "navigation": {
+    "home": "Home",
+    "products": "Products",
+    "sell": "Sell",
+    "materials": "Materials",
+    "accessibility": "Accessibility",
+    "admin": "Admin",
+    "moderator": "Moderator"
+  },
+  "auth": {
+    "welcomeBack": "Welcome Back",
+    "signInToAccount": "Sign in to your account",
+    "forgotPassword": "Forgot password?",
+    "dontHaveAccount": "Don't have an account?",
+    "createAccount": "Create account",
+    "alreadyHaveAccount": "Already have an account?",
+    "signUp": "Sign Up"
+  },
+  "dashboard": {
+    "admin": {
+      "title": "Admin Dashboard",
+      "subtitle": "Manage your platform and monitor activity",
+      "totalUsers": "Total Users",
+      "companies": "Companies",
+      "products": "Products",
+      "pendingApprovals": "Pending Approvals",
+      "totalSales": "Total Sales",
+      "activeModerators": "Active Moderators"
+    },
+    "moderator": {
+      "title": "Moderator Dashboard",
+      "subtitle": "Review and moderate product submissions",
+      "pendingProducts": "Pending Products",
+      "approvedToday": "Approved Today",
+      "rejectedToday": "Rejected Today",
+      "totalModerated": "Total Moderated"
+    },
+    "seller": {
+      "title": "Seller Dashboard",
+      "subtitle": "Manage your products and track sales",
+      "totalProducts": "Total Products",
+      "activeProducts": "Active Products",
+      "pendingApproval": "Pending Approval",
+      "monthlyRevenue": "Monthly Revenue",
+      "addProduct": "Add Product"
+    }
+  },
+  "ai": {
+    "wakeWord": "Hey EmpowerCraft",
+    "listening": "Listening...",
+    "speaking": "Speaking...",
+    "help": "Help",
+    "voiceCommands": "Voice Commands",
+    "chat": "Chat",
+    "mic": "Microphone"
+  },
+  "accessibility": {
+    "blindMode": "Blind Mode",
+    "voiceReader": "Voice Reader",
+    "highContrast": "High Contrast",
+    "largeText": "Large Text",
+    "screenReader": "Screen Reader"
+  }
+}

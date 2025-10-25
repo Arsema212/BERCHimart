@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles for accessibility */
+html.high-contrast {
+  filter: invert(100%) hue-rotate(180deg);
+}
+
+html.high-contrast img {
+  filter: invert(100%) hue-rotate(180deg);
+}
+
+/* Base font size for accessibility */
+html {
+  font-size: 16px; /* Default medium */
+}
+
+/* Focus-visible for keyboard navigation */
+.focus-accessible:focus-visible {
+  outline: 2px solid theme('colors.primary.500');
+  outline-offset: 2px;
+  border-radius: theme('borderRadius.md');
+}
+
+/* Blind Mode Styles */
+.blind-mode {
+  font-size: 18px !important;
+}
+
+.blind-mode h1,
+.blind-mode h2,
+.blind-mode h3,
+.blind-mode h4,
+.blind-mode h5,
+.blind-mode h6 {
+  font-size: 1.5em !important;
+  font-weight: bold !important;
+  margin-bottom: 0.5em !important;
+}
+
+.blind-mode button,
+.blind-mode a {
+  min-height: 48px !important;
+  min-width: 48px !important;
+  padding: 12px !important;
+  font-size: 16px !important;
+}
+
+.blind-mode input,
+.blind-mode textarea,
+.blind-mode select {
+  min-height: 48px !important;
+  font-size: 16px !important;
+  padding: 12px !important;
+}
+
+/* Large Text Mode */
+.large-text {
+  font-size: 18px !important;
+}
+
+.large-text h1 { font-size: 2.5em !important; }
+.large-text h2 { font-size: 2em !important; }
+.large-text h3 { font-size: 1.75em !important; }
+.large-text h4 { font-size: 1.5em !important; }
+.large-text h5 { font-size: 1.25em !important; }
+.large-text h6 { font-size: 1.1em !important; }
+.large-text p { font-size: 1.1em !important; }
+.large-text button { font-size: 1.1em !important; }
+.large-text a { font-size: 1.1em !important; }

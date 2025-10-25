@@ -1,0 +1,93 @@
+{
+  "common": {
+    "welcome": "እንኳን ደህና መጡ",
+    "login": "ግባ",
+    "logout": "ውጣ",
+    "register": "ተመዝግብ",
+    "email": "ኢሜይል",
+    "password": "የይለፍ ቃል",
+    "submit": "ላክ",
+    "cancel": "ሰርዝ",
+    "save": "አስቀምጥ",
+    "edit": "አርትዖ",
+    "delete": "ሰርዝ",
+    "search": "ፈልግ",
+    "home": "መነሻ",
+    "products": "ምርቶች",
+    "profile": "መገለጫ",
+    "settings": "ቅንብሮች",
+    "dashboard": "ዳሽቦርድ",
+    "admin": "አስተዳዳሪ",
+    "moderator": "ተቆጣጣሪ",
+    "seller": "ሻጭ",
+    "customer": "ደንበኛ"
+  },
+  "app": {
+    "title": "BERCHimart",
+    "subtitle": "የተደራሽ ኢ-ኮሜርስ",
+    "tagline": "የእጅ ስራ ምርቶች ከልብ ጋር ይገናኙ። ከሁሉም ቦታ ከተሰለጠኑ ስነ-ልቦናዎች ልዩ ፈጠራዎችን ያግኙ።"
+  },
+  "navigation": {
+    "home": "መነሻ",
+    "products": "ምርቶች",
+    "sell": "ሽጥ",
+    "materials": "ቁሳቁሶች",
+    "accessibility": "ተደራሽነት",
+    "admin": "አስተዳዳሪ",
+    "moderator": "ተቆጣጣሪ"
+  },
+  "auth": {
+    "welcomeBack": "እንኳን ደህና መጡ",
+    "signInToAccount": "ወደ መለያዎ ይግቡ",
+    "forgotPassword": "የይለፍ ቃል ረሳሁ",
+    "dontHaveAccount": "መለያ የለዎትም?",
+    "createAccount": "መለያ ይፍጠሩ",
+    "alreadyHaveAccount": "መለያ አለዎት?",
+    "signUp": "ተመዝግብ"
+  },
+  "dashboard": {
+    "admin": {
+      "title": "አስተዳዳሪ ዳሽቦርድ",
+      "subtitle": "የመድረክዎን ያስተዳድሩ እና እንቅስቃሴን ይከታተሉ",
+      "totalUsers": "ጠቅላላ ተጠቃሚዎች",
+      "companies": "ኩባንያዎች",
+      "products": "ምርቶች",
+      "pendingApprovals": "በጥበቃ ላይ ያሉ ምርቶች",
+      "totalSales": "ጠቅላላ ሽያጭ",
+      "activeModerators": "ንቁ ተቆጣጣሪዎች"
+    },
+    "moderator": {
+      "title": "ተቆጣጣሪ ዳሽቦርድ",
+      "subtitle": "የምርት ማስገቢያዎችን ይገምግሙ እና ያስተዳድሩ",
+      "pendingProducts": "በጥበቃ ላይ ያሉ ምርቶች",
+      "approvedToday": "ዛሬ የተፀድቀ",
+      "rejectedToday": "ዛሬ የተቀበለ",
+      "totalModerated": "ጠቅላላ የተገመገመ"
+    },
+    "seller": {
+      "title": "ሻጭ ዳሽቦርድ",
+      "subtitle": "ምርቶችዎን ያስተዳድሩ እና ሽያጭን ይከታተሉ",
+      "totalProducts": "ጠቅላላ ምርቶች",
+      "activeProducts": "ንቁ ምርቶች",
+      "pendingApproval": "በጥበቃ ላይ",
+      "monthlyRevenue": "ወራዊ ገቢ",
+      "addProduct": "ምርት ጨምር"
+    }
+  },
+  "ai": {
+    "wakeWord": "Hey EmpowerCraft",
+    "listening": "ይሰማል...",
+    "speaking": "ይናገራል...",
+    "help": "እርዳታ",
+    "voiceCommands": "የድምፅ ትዕዛዞች",
+    "chat": "ውይይት",
+    "mic": "ማይክሮፎን"
+  },
+  "accessibility": {
+    "blindMode": "የዕውር ሁነታ",
+    "voiceReader": "የድምፅ አንባቢ",
+    "highContrast": "ከፍተኛ ንጽጽር",
+    "largeText": "ትልቅ ጽሑፍ",
+    "screenReader": "የማያ አንባቢ"
+  }
+}
